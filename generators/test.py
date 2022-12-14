@@ -16,3 +16,11 @@ def rand_num(low, high, n):
 
 for x in rand_num(1, 10 , 12):
     print(x)
+
+a = 10
+b = a
+
+print(a==b)
+a = 11
+print(a)
+print(b)
