@@ -1,0 +1,10 @@
+2026-03-03 12:45:54,084 [ERROR] processor.process:11: Division by zero
+Traceback (most recent call last):
+  File "C:\Users\Sakait Bhandari\projects\github\python-best-practices\core\processor.py", line 9, in process
+    r = a/b
+ZeroDivisionError: division by zero
+2026-03-03 13:37:33,099 [ERROR] processor.process:11: Division by zero
+Traceback (most recent call last):
+  File "C:\Users\Sakait Bhandari\projects\github\python-best-practices\core\processor.py", line 9, in process
+    r = a/b
+ZeroDivisionError: division by zero
