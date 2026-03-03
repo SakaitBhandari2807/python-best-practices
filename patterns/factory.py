@@ -38,8 +38,8 @@ class LlmFactory:
             print("Not a valid model")
             return None
 
-# client = LlmFactory.create('chat-gpt', 'abhasasha-ancbha_asmdhasdadgxxa')
+# client = LlmFactory.create('chat-gpt', '')
 # client.initialize_llm()
-client = LlmFactory.create('Gemini', 'axvdfsretqmid09aja-ajdfha7egbamaaa')
+client = LlmFactory.create('Gemini', '')
 client.initialize_llm()
 
